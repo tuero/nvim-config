@@ -46,6 +46,8 @@ return {
           "Overfull",
           "Redefining Unicode character",
           "Underfull",
+          "Warning",
+          "Token not allowed in a PDF string (Unicode)",
         },
         vimtex_compiler_latexmk = {
           options = {
